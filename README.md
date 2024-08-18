@@ -30,11 +30,6 @@ Atualmente, estou cursando **Ciência da Computação** e **Desenvolvimento Full
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
 </div>
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/antonio-lindo/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-</div>
 
 
 ## Contato
@@ -42,7 +37,16 @@ Atualmente, estou cursando **Ciência da Computação** e **Desenvolvimento Full
 Estou sempre aberto a novas oportunidades e colaborações. Se você quiser conversar sobre tecnologia, projetos, ou oportunidades, sinta-se à vontade para me contatar:
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/antoniolvlindo/count.svg?"  />
+  <a href="https://www.linkedin.com/in/antonio-lindo/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+    <a href="mailto:antoniolvitall@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
 </div>
 
 ###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/antoniolvlindo/count.svg?"  />
+</div>
